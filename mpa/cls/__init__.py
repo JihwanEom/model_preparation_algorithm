@@ -11,7 +11,6 @@ from . import trainer
 
 import mpa.modules.datasets.pipelines.transforms.augmix
 import mpa.modules.datasets.pipelines.transforms.ote_transforms
-import mpa.modules.datasets.pipelines.transforms.random_augment
 import mpa.modules.datasets.pipelines.transforms.random_ratio_crop
 
 import mpa.modules.datasets.cls_csv_dataset
